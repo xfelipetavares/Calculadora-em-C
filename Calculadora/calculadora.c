@@ -1,3 +1,6 @@
+// por Felipe Tavares
+// aprendendo C
+
 #include <stdio.h>
 #include <math.h>
 
