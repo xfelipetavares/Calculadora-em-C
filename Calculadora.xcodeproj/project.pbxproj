@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E3B45EA32665695600662D33 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = E3B45EA22665695600662D33 /* main.c */; };
+		E3B45EA32665695600662D33 /* calculadora.c in Sources */ = {isa = PBXBuildFile; fileRef = E3B45EA22665695600662D33 /* calculadora.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		E3B45E9F2665695600662D33 /* Calculadora */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Calculadora; sourceTree = BUILT_PRODUCTS_DIR; };
-		E3B45EA22665695600662D33 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		E3B45EA22665695600662D33 /* calculadora.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = calculadora.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		E3B45EA12665695600662D33 /* Calculadora */ = {
 			isa = PBXGroup;
 			children = (
-				E3B45EA22665695600662D33 /* main.c */,
+				E3B45EA22665695600662D33 /* calculadora.c */,
 			);
 			path = Calculadora;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E3B45EA32665695600662D33 /* main.c in Sources */,
+				E3B45EA32665695600662D33 /* calculadora.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
