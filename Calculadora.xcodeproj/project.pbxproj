@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		E3B45EA32665695600662D33 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = E3B45EA22665695600662D33 /* main.c */; };
-		E3B45EAC26656CAE00662D33 /* parte 2.c in Sources */ = {isa = PBXBuildFile; fileRef = E3B45EAB26656CAE00662D33 /* parte 2.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,7 +25,6 @@
 /* Begin PBXFileReference section */
 		E3B45E9F2665695600662D33 /* Calculadora */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Calculadora; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3B45EA22665695600662D33 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
-		E3B45EAB26656CAE00662D33 /* parte 2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "parte 2.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +58,6 @@
 			isa = PBXGroup;
 			children = (
 				E3B45EA22665695600662D33 /* main.c */,
-				E3B45EAB26656CAE00662D33 /* parte 2.c */,
 			);
 			path = Calculadora;
 			sourceTree = "<group>";
@@ -121,7 +118,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E3B45EAC26656CAE00662D33 /* parte 2.c in Sources */,
 				E3B45EA32665695600662D33 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
