@@ -12,7 +12,4 @@ int main(int argc, const char * argv[]) {
     printf("Hello, World!\n");
     return 0;
     
-    //teste 2
-//    teste 3
-    
 }
